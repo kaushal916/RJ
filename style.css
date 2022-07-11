@@ -3308,7 +3308,7 @@ h3.price_tag {
 -------------------------------------------------------------------*/
 
 .innerpage_banner {
-    min-height: 100px;
+    min-height: 120px;
     background: goldenrod;
     padding-top: 0;
     display: flex;
